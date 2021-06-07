@@ -4,7 +4,6 @@
 
 ## Flappy Bird
 
-[![Author](https://img.shields.io/badge/author-josepholiveira-8257E5?style=flat-square)](https://github.com/BrunoFerreiraCba)
 
 <h4 align="center">
   Flappy Bird is a game built for rotate in browser.
