@@ -9,10 +9,9 @@
   Flappy Bird is a game built for rotate in browser.
 </h4>
 
-![Flappy Bird preview](.github/preview.png) 
+![Flappy Bird preview](.github/preview.PNG) 
 
 ## Tecnologies
-
 
 
 This project was developed using web based technologies.
