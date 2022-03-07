@@ -8,9 +8,10 @@
 <h4 align="center">
   Flappy Bird is a game built for rotate in browser.
 </h4>
-<div width="400px" heigth="400px">
-![Flappy Bird previw](.github/FlappyBird.PNG) 
-</div>
+
+![Flappy Bird previw]
+<img src=".github/FlappyBird.PNGg" alt="Flappy Bird previw" width="750"/>
+
   
 ## Tecnologies
 
